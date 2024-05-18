@@ -1,5 +1,4 @@
 # Datafun-03-analytic
-# datafun-03-project
 
 ## Create Project Virtual Environment
 
